@@ -1,0 +1,19 @@
+.location-search {
+    margin-bottom: 20px;
+    padding: 20px;
+    background: #f1f1f1;
+}
+
+.location-search input {
+    width: 65%;
+    padding: 4px;
+    border: 1px solid white;
+}
+
+.location-search button {
+    background-color: rgb(233, 72, 72);
+    border: 1px solid rgb(221, 75, 75);
+    color: white;
+    width: 35%;
+    padding: 9px 20px;
+}
