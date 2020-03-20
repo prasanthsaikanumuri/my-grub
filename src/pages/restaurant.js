@@ -65,7 +65,7 @@ class RestaurantPage extends React.Component {
           <img src="https://icon-library.net//images/gif-loading-icon/gif-loading-icon-17.jpg" />
         </div>
       }
-      <Link to="/">Go back to the homepage</Link>
+      <br></br><Link to="/">Go to Home</Link>
       </Layout>
     )
   }
